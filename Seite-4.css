@@ -1,0 +1,13 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}@font-face {
+  font-family: 'arp-240';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/arp-240.ttf);
+}@font-face {
+  font-family: 'Konstanz-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Konstanz-Regular.otf);
+}
